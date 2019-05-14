@@ -20,5 +20,7 @@ print "Give me a dollar amount: "
 amount = gets.chomp.to_f
 
 ten_percent = amount * 0.1
+formatted_amount = '%.2f' % ten_percent
 
-puts "Ten percent is #{ten_percent}."
+
+puts "Ten percent is #{formatted_amount}."
