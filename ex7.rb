@@ -1,3 +1,4 @@
+# https://learnrubythehardway.org/book/
 # page 48 - exercise 7
 puts "Mary had a little lamb."
 puts "Its fleece was white as #{'snow'}"
